@@ -1,5 +1,5 @@
 # quote-generator-chrome-extension
-A simple chrome extension using https://behappy.me to create and generate quotes which you can then drag+drop into websites like Facebook and Twitter to easily share them
+A simple chrome extension using https://behappy.me to create and generate quotes which you can then save+embed into websites like Facebook and Twitter to easily share them. This seriously is just a hack and not a real, <i>quality</i> chrome extension.
 
 <h1>Installing</h1>
 <ul>
